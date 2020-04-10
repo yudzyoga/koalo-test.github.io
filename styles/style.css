@@ -1,0 +1,52 @@
+.image-slider img{
+  width: 100%;
+  margin-top:60px;
+}
+
+.about img{
+  width: 100%;
+}
+
+.about{
+  padding-top: 150px;
+  padding-bottom:150px;
+  background-color: #f4eeff;
+}
+
+.navbarCustomStyle{
+  background-color: #dcd6f7;
+  position:fixed;
+  z-index: 1;
+  width:100%;
+}
+
+.jasa{
+  background-color: #a6b1e1;
+  height: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.desc-jasa{
+  padding-top: 120px;
+  height: 200px;
+}
+
+.image-slider-jasa{
+  padding-top: 50px;
+  height: 200px;
+}
+
+.image-slider-jasa img{
+  width:100%;
+}
+
+.produk{
+  padding-top: 70px;
+  padding-bottom:70px;
+  background-color: #f4eeff;
+}
+
+.produk img{
+  width:100%;
+}
